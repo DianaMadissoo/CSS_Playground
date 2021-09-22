@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Bonheur+Royale&family=Grey+Qo&display=swap');
+
+body {
+    background-color: aqua;
+}
+
+.heading {
+    text-align: center;
+}
+
+.playground-heading {
+    color: blue; 
+    font-family: 'Bonheur Royale', cursive;
+    font-size: 4rem;
+}
+
+.main {
+    border: 2px solid gray;
+    width: 75%; 
+    margin: 0 auto;
+}
+
+.main div {
+    width: 200px; 
+    height: 200px; 
+    border: 2px solid blueviolet;
+    border-radius: 50%; 
+    margin: 1rem auto;
+}
+
+#red {
+    border-color: red;
+}
+
+#yellow {
+    border-color: yellow;
+}
+
+#green {
+    border-color: green;
+}
+
+.footer {
+    text-align: center;
+    font-family: 'Grey Qo', cursive;
+    font-size: 3rem;
+    color: blue;
+}
